@@ -35,11 +35,23 @@ Below is an example execution of the program:
 
 
 > The resulting production quantities are:
+
+
 > Production quantity month 1 - 0
+
+
 > Production quantity month 2 - 50
+
+
 > Production quantity month 3 - 200
+
+
 > Production quantity month 4 - 400
+
+
 > Production quantity month 5 - 100
+
+
 
 
 Why are those production quantities calculated? The initial stock level is 500. In the first month 300 pieces are sold. Therefore, nothing needs to be produced and the resulting stock is 200 (= 500 - 300). In the second month 250 pieces are sold. The stock level after the previous month is 200. Therefore 50 pieces need to be produced. The resulting stock level is 0 (= 200 + 50 - 250). In the third month 200 pieces are sold. The stock level after the previous month is 0. Therefore 200 pieces need to be produced. The resulting stock level is 0 (= 200 - 200).
