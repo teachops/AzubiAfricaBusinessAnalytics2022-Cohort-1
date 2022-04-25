@@ -1,4 +1,4 @@
-# Assignment
+# Sales and Operations Planning Project
 
 In this exercise you are going to simulate a sales and operations planning using the zero stock level strategy. Write a Python program that asks the user to enter the following data:
 
