@@ -34,7 +34,8 @@ Below is an example execution of the program:
 
 
 
-> The resulting production quantities are:
+
+`The resulting production quantities are:`
 
 
 > Production quantity month 1 - 0
