@@ -24,7 +24,7 @@ all_symbols = list(string.punctuation)
 
 
 ####################################### TYPE YOU CODE IN HERE! ##########################################
-# Ask user for their how many letters they would like in their password and cast to integer and store as no_of_letters
+# Ask user for how many letters they would like in their password and cast to integer and store as no_of_letters
 
 
 # Ask user for how many symbols they would like in their password and cast to integer and store as no_of_symbols
@@ -49,7 +49,7 @@ all_symbols = list(string.punctuation)
 
 
 # Randomly Select the characters
-# for alphabet in range(no_of_symbols):
+# for number in range(no_of_symbols):
 #       select a random symbol from list of symbols and append to the password symbols list 
 
 
@@ -60,7 +60,7 @@ all_symbols = list(string.punctuation)
 # Set Accumulator for the Number of Digits List
 
 # Randomly Select the characters
-# for alphabet in range(no_of_digits):
+# for number in range(no_of_digits):
 #       select a random digit from list of digits and append to the password digits list 
 
 
